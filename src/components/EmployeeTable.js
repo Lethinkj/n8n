@@ -1,5 +1,4 @@
 import React from 'react';
-import axios from 'axios';
 
 const EmployeeTable = ({ employees, onEdit, onDelete, onSendEmail }) => {
   return (
